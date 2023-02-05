@@ -4,8 +4,8 @@ Project UAS Pemrograman Moile Modul Profil Pegawai
 
 # User app
 # Pegawai: 
-  Admin-> Username: aryaadmin
-  Manager-> Username: aryamanager
+  Admin-> Username: aryaadmin __
+  Manager-> Username: aryamanager __
   Pegawai-> Username: aryapegawai
-  Nonaktif-> Username: aryanonaktif
+  Nonaktif-> Username: aryanonaktif __
 # Password User -> pass123
